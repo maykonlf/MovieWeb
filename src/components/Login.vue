@@ -17,7 +17,7 @@
 <script>
 import axios from 'axios'
 export default {
-  name: 'HelloWorld',
+  name: 'Login',
   data () {
     return {
       loginData: {
